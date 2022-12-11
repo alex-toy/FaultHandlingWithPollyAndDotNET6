@@ -1,0 +1,1 @@
+# FaultHandlingWithPollyAndDotNET6
