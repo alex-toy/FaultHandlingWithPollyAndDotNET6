@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "KZrK4snVXqrzm7azzoqu1GJqnkH3BIrkJaa+xKcN6rk=",
+  "Source": "ResponseService",
+  "BasePath": "_content/ResponseService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
