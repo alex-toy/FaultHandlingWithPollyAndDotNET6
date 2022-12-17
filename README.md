@@ -8,12 +8,14 @@ In this project, we will work with the Polly library to ensure we can handle any
 
 We could very possibly eventually get a good response if we try later, which is better than abandon and accept failure. This is particularly advantageous in distributed microservice architectures. In this project, we will focus on the retry policy.
 
-## Create project
+## Create project ResponseService
 
-### Add Nuget Packages
+<img src="/pictures/response_service.png" title="response service"  width="800">
+
+
+## Create project RequestService
+
+### Add Nuget Packages RequestService
 ```
-Install-Package Serilog.AspNetCore
+Install-Package Microsoft.Extensions.Http.Polly
 ```
-
-<img src="/pictures/json_logs.png" title="json logs"  width="600">
-

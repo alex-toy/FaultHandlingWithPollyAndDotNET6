@@ -12,7 +12,14 @@ namespace ResponseService.Controllers
         [HttpGet]
         public ActionResult GetAResponse(int id)
         {
-            return Ok();
+            Random random = new Random();
+            var randomInteger = random.Next(0, 101);
+            if (randomInteger > id)
+            {
+                Console.WriteLine("Failure - Generate a HTTP 500");
+                return StatusCode(StatusCodes.Status500InternalServerError);
+            }
+            return Ok(randomInteger);
         }
     }
 }
