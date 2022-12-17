@@ -7,18 +7,21 @@ namespace ResquestService.Controllers
     [ApiController]
     public class RequestController : ControllerBase
     {
-        private ClientPolicy _clientPolicy { get; set; }
+        private readonly ClientPolicy _clientPolicy;
+        public readonly IHttpClientFactory _clientFactory;
 
-        public RequestController(ClientPolicy clientPolicy)
+        public RequestController(ClientPolicy clientPolicy, IHttpClientFactory clientFactory)
         {
             _clientPolicy = clientPolicy;
+            _clientFactory = clientFactory;
         }
 
         // GET: api/<RequestController>
         [HttpGet]
         public async Task<ActionResult> MakeRequest()
         {
-            var client = new HttpClient();
+            //var client = new HttpClient();
+            var client = _clientFactory.CreateClient("ImmediateRetryClient");
 
             string serverURL = "https://localhost:7048/api/Response/10";
             Func<Task<HttpResponseMessage>> serverCall = async () => await client.GetAsync(serverURL);
