@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ResponseService", "Response
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResquestService", "ResquestService\ResquestService.csproj", "{9006494A-AB4D-4409-A392-224DAE713629}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Policies", "Policies\Policies.csproj", "{0F3F480B-5256-48F2-93E3-A21DA0C3E3ED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{9006494A-AB4D-4409-A392-224DAE713629}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9006494A-AB4D-4409-A392-224DAE713629}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9006494A-AB4D-4409-A392-224DAE713629}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F3F480B-5256-48F2-93E3-A21DA0C3E3ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F3F480B-5256-48F2-93E3-A21DA0C3E3ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F3F480B-5256-48F2-93E3-A21DA0C3E3ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F3F480B-5256-48F2-93E3-A21DA0C3E3ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

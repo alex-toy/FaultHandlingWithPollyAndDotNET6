@@ -35,3 +35,5 @@ C:\source\CsharpLibraries\FaultHandlingWithPollyAndDotNET6\ResponseService\Resqu
 C:\source\CsharpLibraries\FaultHandlingWithPollyAndDotNET6\ResponseService\ResquestService\obj\Debug\net6.0\ResquestService.pdb
 C:\source\CsharpLibraries\FaultHandlingWithPollyAndDotNET6\ResponseService\ResquestService\obj\Debug\net6.0\ResquestService.genruntimeconfig.cache
 C:\source\CsharpLibraries\FaultHandlingWithPollyAndDotNET6\ResponseService\ResquestService\obj\Debug\net6.0\ref\ResquestService.dll
+C:\source\CsharpLibraries\FaultHandlingWithPollyAndDotNET6\ResponseService\ResquestService\bin\Debug\net6.0\Policies.dll
+C:\source\CsharpLibraries\FaultHandlingWithPollyAndDotNET6\ResponseService\ResquestService\bin\Debug\net6.0\Policies.pdb

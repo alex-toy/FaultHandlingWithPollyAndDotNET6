@@ -1,0 +1,12 @@
+C:\source\CsharpLibraries\FaultHandlingWithPollyAndDotNET6\ResponseService\Policies\bin\Debug\net6.0\Policies.deps.json
+C:\source\CsharpLibraries\FaultHandlingWithPollyAndDotNET6\ResponseService\Policies\bin\Debug\net6.0\Policies.dll
+C:\source\CsharpLibraries\FaultHandlingWithPollyAndDotNET6\ResponseService\Policies\bin\Debug\net6.0\Policies.pdb
+C:\source\CsharpLibraries\FaultHandlingWithPollyAndDotNET6\ResponseService\Policies\obj\Debug\net6.0\Policies.csproj.AssemblyReference.cache
+C:\source\CsharpLibraries\FaultHandlingWithPollyAndDotNET6\ResponseService\Policies\obj\Debug\net6.0\Policies.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\CsharpLibraries\FaultHandlingWithPollyAndDotNET6\ResponseService\Policies\obj\Debug\net6.0\Policies.AssemblyInfoInputs.cache
+C:\source\CsharpLibraries\FaultHandlingWithPollyAndDotNET6\ResponseService\Policies\obj\Debug\net6.0\Policies.AssemblyInfo.cs
+C:\source\CsharpLibraries\FaultHandlingWithPollyAndDotNET6\ResponseService\Policies\obj\Debug\net6.0\Policies.csproj.CoreCompileInputs.cache
+C:\source\CsharpLibraries\FaultHandlingWithPollyAndDotNET6\ResponseService\Policies\obj\Debug\net6.0\Policies.dll
+C:\source\CsharpLibraries\FaultHandlingWithPollyAndDotNET6\ResponseService\Policies\obj\Debug\net6.0\refint\Policies.dll
+C:\source\CsharpLibraries\FaultHandlingWithPollyAndDotNET6\ResponseService\Policies\obj\Debug\net6.0\Policies.pdb
+C:\source\CsharpLibraries\FaultHandlingWithPollyAndDotNET6\ResponseService\Policies\obj\Debug\net6.0\ref\Policies.dll

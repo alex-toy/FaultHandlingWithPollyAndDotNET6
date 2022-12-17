@@ -19,3 +19,13 @@ We could very possibly eventually get a good response if we try later, which is 
 ```
 Install-Package Microsoft.Extensions.Http.Polly
 ```
+
+
+## Add Client policy
+
+### Add Nuget Packages
+```
+Install-Package Microsoft.Extensions.Http.Polly
+```
+
+<img src="/pictures/retry_policy.png" title="retry policy"  width="800">
